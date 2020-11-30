@@ -1,7 +1,6 @@
 {
   "name": "real-world-nuxt",
   "version": "1.0.0",
-  "homepage": "https://brianwilkinson.github.io/real-world-nuxt",
   "private": true,
   "scripts": {
     "dev": "nuxt",
